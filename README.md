@@ -40,6 +40,8 @@ Make sure you have the following tools installed on your machine:
    ```bash
    pip install flask tensorflow-hub pandas scikit-learn tabulate matplotlib numpy flask-cors transformers
    ```
+6. Download Model + Dataset and exact to src/app/api:
+https://drive.google.com/file/d/151ysqUvPvG3Ul1i94j7ah22sXaOLqNV5/view?usp=sharing
 
 ### Running the Application
 
